@@ -1,4 +1,4 @@
-# NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)
+# NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) (Bootcamp)
 ![Nodejs](https://blog.logrocket.com/wp-content/uploads/2019/10/nodejs.png)
 
 ## Introduction
