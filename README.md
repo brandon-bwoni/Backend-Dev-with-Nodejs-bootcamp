@@ -18,3 +18,5 @@ This is a comprehensive course on Node.js deep diving into the world of server-s
 - **Dynamic Routes & Advanced Models**: Adding routing functionality to my applications
 
 - **SQL with MySQL**: Learned how to write SQL in MySQL, how to connect a backend app to MySQL database, and how to query data from the database from a Node app.
+  
+- **Understanding Sequelize**: Learned how to simply write and execute database queries using Sequelize. Which makes the whole process of communicating with the database easier 
