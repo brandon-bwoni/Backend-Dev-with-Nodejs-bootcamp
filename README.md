@@ -23,4 +23,6 @@ This is a comprehensive course on Node.js deep diving into the world of server-s
   
 - **Working with NoSQL and Using Mongodb**: Understood how to work with a NoSQL database (MongoDB). How to connect the database, and how to carry out CRUD operations.
    
-- **Working with Mongoose ODM**: Learned how to use Mongoose Object-document Mapping framework for easily defining database schemas and querying data. 
+- **Working with Mongoose ODM**: Learned how to use Mongoose Object-document Mapping framework for easily defining database schemas and querying data.
+  
+- **Sessions & Cookies**: Learned how to cookies are used to store information on the client, while sessions are used to store information on the server. 
