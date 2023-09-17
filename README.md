@@ -25,4 +25,6 @@ This is a comprehensive course on Node.js deep diving into the world of server-s
    
 - **Working with Mongoose ODM**: Learned how to use Mongoose Object-document Mapping framework for easily defining database schemas and querying data.
   
-- **Sessions & Cookies**: Learned how to cookies are used to store information on the client, while sessions are used to store information on the server. 
+- **Sessions & Cookies**: Learned how cookies are used to store information on the client, while sessions are used to store information on the server.
+  
+- **Authentication & CSRF attacks**: Learned how to add authentication to an app, how to encrypt user passwords using bcryptjs, and how to prevent CSRF attacks.  
